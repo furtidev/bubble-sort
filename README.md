@@ -7,7 +7,7 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 - After that, we compare the items at index 1 & index 2. You know what happens next. 
 - This goes on and on until the array is fully sorted.
 
-![bubble_sort](./bubble_sort.gif)
+![bubble_sort](bubble_sort.gif)
 Visual representation 
 
 ## Resources 
